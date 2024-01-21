@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Add any other global styles you might need */
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px; /* Adjust as needed */
+}
+
+Footer{
+  margin-top: 38.8%;
+}
